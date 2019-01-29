@@ -3,9 +3,10 @@ title: Day Two - 100DaysOfCode
 date: '2019-01-29T00:00:03.284Z'
 ---
 
+Okay, finally got some time to write this post. Work is busy this day, and the pain in my back still.
+
 ### Sick-Fits Store
 
-Okay, finally got some time to write this post. Work is busy this day, and the pain in my back still.  
 So the first thing worth mentioning is I finished one lesson of Wes Bos's [course about GraphQL](https://advancedreact.com/). I learnt some basic CRUD operations. Prisma is cool, it automatically helps you generate a bunch of basic mutation and query functions. The backend architecture of that course is using Yoga and Prisma. Which is kinda complicated, but thinking I will get more and more familiar with that in next couple of days.
 
 ### Styled-components
