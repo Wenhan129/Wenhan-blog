@@ -5,7 +5,7 @@ date: '2019-02-01T00:00:03.284Z'
 
 # Day Four - 100 DaysOfCode
 
-Well, from past days' updates , using the main topic from the content as the title will be beneficial for a look back. I will count the days inside the post instead as the title.
+Well, looking back to past days' updates , using the main topic from the content as the title will be beneficial for reviewing. I will count the days inside the post instead as the title.
 
 ## Items as the Homepage
 
